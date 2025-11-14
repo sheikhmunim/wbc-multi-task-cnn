@@ -70,8 +70,8 @@ WBC-MultiTask-CNN/
 
 ### **1️⃣ Clone this repository**
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/sheikhmunim/wbc-multi-task-cnn.git
+cd wbc-multi-task-cnn
 ```
 
 ### **2️⃣ Create the Conda environment**
