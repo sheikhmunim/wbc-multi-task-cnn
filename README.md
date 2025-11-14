@@ -1,4 +1,3 @@
-```markdown
 # 🧬 White Blood Cell Classification & Morphological Feature Extraction  
 **Assignment 1 – Introduction to Deep Convolutional Neural Networks**  
 **Goal: White Blood Cell (WBC) Classification + Morphology Detection**
